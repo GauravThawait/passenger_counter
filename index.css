@@ -1,0 +1,61 @@
+body {
+   background: white;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+   
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    background: white;
+    border: 1px solid black;
+    padding: 10px 16px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#decrement-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+ 
+#delete-btn {
+    background: darkgreen;
+}
+img {
+
+width: 200px;
+display: block;
+
+}
+
+p{
+    font-weight: 600;
+    margin-bottom: 5;
+}
+
+#error {
+    color: red;
+    font-weight: 200;
+}
+
